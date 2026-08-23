@@ -46,12 +46,10 @@ Everything needed for a real system-level test environment.
     client/
   
        src/
-
          client.c
          main.c
          
     include/
-    
         smbus.h
 
 ---
