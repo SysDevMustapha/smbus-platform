@@ -28,13 +28,16 @@ This is necessary because the server binds to a privileged port and uses low‑l
 ## source structure
 
 server/
+
     src/
+    
         core.c
         log.c
         main.c
         mslot.c
         sock.c
     include/
+    
         core.h
         log.h
         mslot.h
