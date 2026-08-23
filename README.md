@@ -40,7 +40,7 @@ To practice true system‑level development:
 ---
 
 ## Content
-      ──────────────────────────────────────────────
+  
 bin/
 │
 ├── server/
@@ -48,7 +48,7 @@ bin/
 │
 └── client/
       └── SMBus-Client
-──────────────────────────────────────────────
+
 client/
 │
 ├── include/
@@ -57,11 +57,11 @@ client/
 └── src/
       ├── client.c
       └── main.c
-──────────────────────────────────────────────
+
 common/
 │
 └── protocol-frame.c
-──────────────────────────────────────────────
+
 server/
 │
 ├── include/
@@ -76,8 +76,7 @@ server/
       ├── main.c
       ├── mslot.c
       └── sock.c
-──────────────────────────────────────────────
-                
+              
 ---
 
 ## Protocol
