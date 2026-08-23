@@ -30,7 +30,6 @@ This is necessary because the server binds to a privileged port and uses low‑l
     server/
 
          src/
-    
             core.c
             log.c
             main.c
@@ -38,7 +37,6 @@ This is necessary because the server binds to a privileged port and uses low‑l
             sock.c
         
         include/
-    
             core.h
             log.h
             mslot.h
