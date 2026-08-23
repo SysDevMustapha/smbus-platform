@@ -33,7 +33,7 @@ Both the server and client modules place their final build outputs here to keep 
 - Server build output:
 `bin/server/smbus-server`
 
-## Client build output:
+- Client build output:
 `bin/client/smbus-client`
 
 ---
