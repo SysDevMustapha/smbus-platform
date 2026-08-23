@@ -42,40 +42,40 @@ To practice true system‑level development:
 ## Content
   
 bin/
-│
-├── server/
-│     └── SMBus-Server
-│
-└── client/
-      └── SMBus-Client
+ 
+   server/
+          SMBus-Server
+ 
+   client/
+          SMBus-Client
 
 client/
-│
-├── include/
-│     └── smbus.h
-│
-└── src/
-      ├── client.c
-      └── main.c
+
+    include/
+          smbus.h
+
+    src/
+          client.c
+          main.c
 
 common/
-│
-└── protocol-frame.c
+
+    protocol-frame.c
 
 server/
-│
-├── include/
-│     ├── core.h
-│     ├── log.h
-│     ├── mslot.h
-│     └── sock.h
-│
-└── src/
-      ├── core.c
-      ├── log.c
-      ├── main.c
-      ├── mslot.c
-      └── sock.c
+
+    include/
+          core.h
+          log.h
+          mslot.h
+          sock.h
+ 
+    src/
+          core.c
+          log.c
+          main.c
+          mslot.c
+          sock.c
               
 ---
 
