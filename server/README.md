@@ -27,23 +27,22 @@ This is necessary because the server binds to a privileged port and uses low‑l
 
 ## source structure
 
+    server/
 
-server/
-
-    src/
+         src/
     
-        core.c
-        log.c
-        main.c
-        mslot.c
-        sock.c
+            core.c
+            log.c
+            main.c
+            mslot.c
+            sock.c
         
-    include/
+        include/
     
-        core.h
-        log.h
-        mslot.h
-        sock.h
+            core.h
+            log.h
+            mslot.h
+            sock.h
 
 --- 
 
