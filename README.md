@@ -96,8 +96,8 @@ typedef struct {
 - STATE_FULL,
 
 ## Build
-cd server && make
-cd client && make
+- cd server && make
+- cd client && make
 
 ## Run
 ./smbus-server
