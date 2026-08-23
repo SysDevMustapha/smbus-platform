@@ -26,7 +26,7 @@ This is necessary because the server binds to a privileged port and uses low‑l
 ---
 
 ## source structure
-``
+
 server/
     src/
         core.c
@@ -39,7 +39,6 @@ server/
         log.h
         mslot.h
         sock.h
-``
 
 --- 
 
