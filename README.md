@@ -59,6 +59,7 @@ To practice true system‑level development:
               main.c
 
     common/
+    
         protocol-frame.c
 
     server/
