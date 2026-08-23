@@ -104,5 +104,5 @@ cd client && make
 ./smbus-client `<ip> <port> <username>`
 
 ## Author
-Mustapha — System‑Level Develope,
-Mashhad, Iran.
+- Mustapha — System‑Level Develope,
+- Mashhad, Iran.
