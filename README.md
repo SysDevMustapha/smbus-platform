@@ -41,41 +41,40 @@ To practice true system‑level development:
 
 ## Content
   
-bin/
+    bin/
  
-   server/
-          SMBus-Server
+       server/
+              SMBus-Server
  
-   client/
-          SMBus-Client
+       client/
+              SMBus-Client
 
-client/
+    client/
 
-    include/
-          smbus.h
+        include/
+              smbus.h
 
-    src/
-          client.c
-          main.c
+        src/
+              client.c
+              main.c
 
-common/
+    common/
+        protocol-frame.c
 
-    protocol-frame.c
+    server/
 
-server/
-
-    include/
-          core.h
-          log.h
-          mslot.h
-          sock.h
+        include/
+              core.h
+              log.h
+              mslot.h
+              sock.h
  
-    src/
-          core.c
-          log.c
-          main.c
-          mslot.c
-          sock.c
+        src/
+              core.c
+              log.c
+              main.c
+              mslot.c
+              sock.c
               
 ---
 
