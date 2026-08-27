@@ -100,8 +100,8 @@ typedef struct {
 - cd client && make
 
 ## Run
-./smbus-server
-./smbus-client `<ip> <port> <username>`
+- ./smbus-server
+- ./smbus-client `<ip> <port> <username>`
 
 ## Author
 - Mustapha — System‑Level Develope,
