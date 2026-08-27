@@ -104,5 +104,5 @@ typedef struct {
 - ./smbus-client `<ip> <port> <username>`
 
 ## Author
-- Mustapha — System‑Level Develope,
+- Mustapha — System‑Level Developer,
 - Mashhad, Iran.
